@@ -24,7 +24,7 @@ const Hero: React.FC = () => {
               <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold mb-8">
                 <div className="text-white mb-2">Digital Solutions</div>
                 <div className="text-[#748D92]">for Auckland</div>
-                <div className="text-[#D3D9D4]">Businesses.</div>
+                <div className="text-[#D3D9D4]">Businesses</div>
               </h1>
               
               <p className="text-xl text-[#D3D9D4]/80 mb-10 max-w-lg">
